@@ -2,4 +2,4 @@
 
 
 # Author: 
-**Abdullah Al Maruf, Md. Abu Al Siam Talukdar & Afifatun Jannat.**
+**Abdullah Al Maruf, Md. Abu Al Siam Talukder & Afifatun Jannat.**
